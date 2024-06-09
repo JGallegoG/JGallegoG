@@ -2,7 +2,7 @@
 ## 🌍 what´s up ,  world 🌍 
 
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Bienvenido+a+mi+Perfil+de+GitHub)
+![Banner](https://github.com/JGallegoG/JGallegoG/blob/main/bannerGitHub.jpg)
 
 
 ## 🌍  Acerca de mí
