@@ -36,8 +36,8 @@ Una personalidad inquieta, curiosa e investigadora me está lelvando a ser un de
 ## 📚 Repositorios Relevantes
 Aquí encontraras algunos de mis proyectos más relevantes. Si estás interesado en seguir mi progreso como programador, no dudes en visitarlos, dejar tus comentarios y si te animas participar en alguño de ellos. 
 
-- **[Proyecto 1](https://github.com/JGallegoG/app-clima)**: Aplicación de previón climática en tiempo real.
-- **[Proyecto 2](https://github.com/JGallegoG/movies-app)**: Aplicación de búsqueda de películas.
+- **[App Clima](https://github.com/JGallegoG/app-clima)**: Aplicación de previsión climática en tiempo real.
+- **[App movies](https://github.com/JGallegoG/movies-app)**: Aplicación de búsqueda de películas.
 - **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)**: Descripción breve del Proyecto 3.
 
 
