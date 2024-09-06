@@ -6,7 +6,7 @@
 
 
 ## 🌍  Acerca de mí
-Una personalidad inquieta, curiosa e investigadora me está lelvando a ser un desarrollador Full-Stack. Apasionado por la tecnología, la programación, el desarrollo web y la fotografía. Me encanta aprender nuevas herramientas, lenguajes de programación y disfruto trabajando en proyectos desafiantes que me ayudan a crecer como desarrollador y persona días tras días.
+Una personalidad inquieta, curiosa e investigadora me está llevando a ser un desarrollador Full-Stack. Apasionado por la tecnología, la programación, el desarrollo web y la fotografía. Me encanta aprender nuevas herramientas, lenguajes de programación y disfruto trabajando en proyectos desafiantes que me ayudan a crecer como desarrollador y persona días tras días.
 
 
 ## 🛠️  Habilidades Técnicas
