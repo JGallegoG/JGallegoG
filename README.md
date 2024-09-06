@@ -38,7 +38,7 @@ Aquí encontraras algunos de mis proyectos más relevantes. Si estás interesado
 
 - **[App Clima](https://github.com/JGallegoG/app-clima)**: Aplicación de previsión climática en tiempo real.
 - **[App movies](https://github.com/JGallegoG/movies-app)**: Aplicación de búsqueda de películas.
-- **[Proyecto 3](https://github.com/tu-usuario/proyecto-3)**: Descripción breve del Proyecto 3.
+- **[Info-viajes](https://github.com/JGallegoG/info-viajes)**: Aplicación guia turistica de ciudades.
 
 
 
